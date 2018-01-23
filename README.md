@@ -1,5 +1,7 @@
 # simpleSpatialIndexForLines
 
+npm start
+
 
 # Тест скорости работы 
 сначала без индексов
